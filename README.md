@@ -1,7 +1,9 @@
 # Swap-Function_File-Separation
 
 ## Purpose
-該練習利用自定義swap函式，並使用C語法，實作函式交換兩數字位置</br>
+該練習利用自定義swap函式，</br>
+並使用C語法，實作函式交換兩數字位置。</br>
+</br>
 ex: a=3, b=5 --swap--> a=5, b=3
 
 ## 編譯

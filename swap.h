@@ -3,4 +3,4 @@
 
 void swap(int* , int*);
 
-#endif  /* */
+#endif  /* swap.h */

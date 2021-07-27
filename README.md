@@ -12,6 +12,9 @@ ex: a=3, b=5 --swap--> a=5, b=3
 ## 連結
 > gcc -o main main.o swap.o
 
+## 輸出
+> a is 5 , b is 4
+-----
 ## 練習1
 自定義撰寫一個**標頭檔**swap.h
 

@@ -13,7 +13,7 @@ ex: a=3, b=5 --swap--> a=5, b=3
 > gcc -o main main.o swap.o
 
 ## 練習1
-自定義撰寫一個**標頭檔**
+自定義撰寫一個**標頭檔**swap.h
 
 ## 練習2
 自定義撰寫一個**swap**功能在swap.c

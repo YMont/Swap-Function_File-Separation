@@ -6,15 +6,15 @@
 </br>
 ex: a=3, b=5 --swap--> a=5, b=3
 
-## Complie
+### Complie
 > gcc -c main.c swap.c
 > .c **generate** .o
 
-## Output
+### Output
 > gcc -o main main.o swap.o
 > .o **generate** .exe
 
-## Print
+### Print
 > a is 5 , b is 4
 -----
 ## 練習1
